@@ -1,3 +1,7 @@
+require "./hero"
+require "./champion"
+require "./monster"
+
 ###############執行步驟################
 champion = Champion.new("Peter", 100, 30)
 hero1 = Hero.new("Roger", 100, 30)
